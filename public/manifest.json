@@ -1,0 +1,12 @@
+{
+  "name": "Mike.Works - World Class Developer Training",
+  "short_name": "Mike.Works",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "World Class Developer Training",
+  "orientation": "portrait-primary",
+  "lang": "en-US",
+  "icons": [ ]
+};
